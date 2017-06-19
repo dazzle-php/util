@@ -73,6 +73,6 @@ abstract class FactoryPlugin implements FactoryPluginInterface
      */
     private function throwException($ex)
     {
-        throw new ExecutionException("FactoryPlugin [" . get_class($this) . "] raised an error.", $ex);
+        throw new ExecutionException("FactoryPlugin [" . get_class($this) . "] raised an error.", 0, $ex);
     }
 }

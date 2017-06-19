@@ -73,6 +73,6 @@ abstract class SimpleFactoryPlugin implements SimpleFactoryPluginInterface
      */
     private function throwException($ex)
     {
-        throw new ExecutionException("SimpleFactoryPlugin [" . get_class($this) . "] raised an error.", $ex);
+        throw new ExecutionException("SimpleFactoryPlugin [" . get_class($this) . "] raised an error.", 0, $ex);
     }
 }
