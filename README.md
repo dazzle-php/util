@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.org/dazzle-php/util.svg)](https://travis-ci.org/dazzle-php/util)
 [![Code Coverage](https://scrutinizer-ci.com/g/dazzle-php/util/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/dazzle-php/util/?branch=master)
 [![Code Quality](https://scrutinizer-ci.com/g/dazzle-php/util/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dazzle-php/util/?branch=master)
-[![Total Downloads](https://poser.pugx.org/dazzle-php/util/downloads)](https://packagist.org/packages/dazzle-php/util) 
 [![Latest Stable Version](https://poser.pugx.org/dazzle-php/util/v/stable)](https://packagist.org/packages/dazzle-php/util) 
 [![Latest Unstable Version](https://poser.pugx.org/dazzle-php/util/v/unstable)](https://packagist.org/packages/dazzle-php/util) 
 [![License](https://poser.pugx.org/dazzle-php/util/license)](https://packagist.org/packages/dazzle-php/util)
