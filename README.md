@@ -32,16 +32,6 @@ Dazzle Util features:
 * Callbacks isolator,
 * ...and more.
 
-## Provided Example(s)
-
-### Quickstart
-
-TODO
-
-### Additional
-
-TODO
-
 ## Requirements
 
 * PHP-5.6 or PHP-7.0+,
@@ -65,7 +55,7 @@ $> vendor/bin/phpunit -d memory_limit=1024M
 
 ## Versioning
 
-Versioning of Dazzle libraries is being shared between all packages included in [Dazzle Project](https://github.com/dazzle-php/dazzle). That means the releases are being made concurrently for all of them. On one hand this might lead to "empty" releases for some packages at times, but don't worry. In the end it is far much easier for contributors to maintain and -- what's the most important -- much more straight-forward for users to understand the compatibility and inter-operability of the packages.
+Versioning of Dazzle libraries is described in versioning section of [Dazzle Project](https://github.com/dazzle-php/dazzle) index repository. Please, refer there for detailed information on the subject.
 
 ## Contributing
 
